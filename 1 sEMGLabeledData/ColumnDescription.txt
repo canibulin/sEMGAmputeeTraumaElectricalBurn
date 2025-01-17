@@ -1,0 +1,34 @@
+
+Columns Definition
+28 EMG CH1 - Raw sEMG	
+29 EMG CH1 - Filtered sEMG	
+30 EMG CH2 - Raw sEMG	
+31 EMG CH2 - Filtered sEMG
+32 sEMG_env_CH1	- 
+33 sEMG_env_CH2	
+34 sEMG_norm_CH1	
+35 sEMG_norm_CH2	
+37 Normalized Threshold 
+
+Elbow Flexion-Extension
+Ch2 Biceps Muscle
+Ch1 Triceps Muscle
+
+Wrist Flexion-Extension
+Ch2 Flexor muscle
+Ch1 Extensor muscle
+
+
+Files related to elbow flexion-extension
+Files named as BicepsDerecho - Relates to Right Elbow Flexion movement 
+Files named as BicepsIzquierdo - Relates to Left Elbow Flexion movement
+Files named as TricepsDerecho - Relates to Right Elbow Extension movement
+Files named as TricepsIzquierdo - Relates to Left Elbow Extension movement
+
+
+Files related to wrist flexion-extension
+Files named as ExtensorDerecho - Relates to the right wrist extension movement 
+Files named as ExtensorIzquierdo - Relates to the left wrist extension movement
+Files named as FlexorDerecho - Relates to the right wrist flexion movement
+Files named as FlexorIzquierdo - Relates to the left wrist flexion movement
+

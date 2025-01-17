@@ -1,0 +1,16 @@
+﻿User ID,Group,Age [Years],Laterality (dominance),Laterality of Amputation ,Amputation,Etiology. ,Years of amputation [años],Use mechanical prosthesis,Hours of prosthesis use,Wrist flexor strength (right),Wrist flexor strength (left),Wrist extensor strength (right),Wrist extensor strength (left),Biceps strength (right),Biceps strength (left),Triceps strength (right),Triceps strength (left),Stump length  (Right cm),Stump length(Left cm)
+4,1,30,Right,No Amputation,No Amputation,Healthy,0,No,0,5,5,5,5,5,5,5,0,0,0
+5,1,27,Right,No Amputation,No Amputation,Healthy,0,No,0,5,5,5,5,5,5,5,0,0,0
+2,1,27,Right,No Amputation,No Amputation,Healthy,0,No,0,5,5,5,5,5,5,5,0,0,0
+3,1,58,Left,No Amputation,No Amputation,Healthy,0,No,0,5,5,5,5,5,5,5,0,0,0
+1,1,33,Right,No Amputation,No Amputation,Healthy,0,No,0,5,4,4,5,5,5,5,0,0,0
+11,3,18,Right,Left,Transradial,Electrical Burn,1,No,0,0,5,0,5,5,5,5,9,9,0
+15,3,67,Right,Bilateral,Transradial,Electrical Burn,13,Yes,13,0,0,0,5,0,5,0,8,6,3.5
+12,3,37,Left,Bilateral,Transradial,Electrical Burn,9,Yes,4,0,0,0,5,5,5,5,10,11,2
+13,3,30,Right,Right,Transradial,Electrical Burn,2,No,0,5,0,5,4,5,4,5,7,7,0
+14,3,45,Right,Bilateral,Transradial,Electrical Burn,0,No,0,0,0,0,3,4,3,4,14,14,1.5
+10,2,26,Left,Right,Transradial,Trauma,1,Yes,12,5,0,5,4,5,4,5,14.5,14.5,2.5
+8,2,30,Left,Right,Transradial,Trauma,2,Yes,8,5,0,5,5,5,5,5,8,0,1.5
+6,2,56,Right,Left,Transradial,Trauma,1,No,0,0,5,0,5,5,5,5,7.5,7.5,0
+9,2,44,Left,Right,Transradial,Trauma,7,Yes,3,5,0,5,3,4,3,4,15,0,7
+7,2,64,Left,Right,Transradial,Trauma,1,yes,12,4,0,4,4,5,4,5,14,14,7
